@@ -20,8 +20,6 @@
 
 ## Getting started
 ```bash
-# clone the project
-git clone git@github.com:destiny-miracle/vue-admin-super.git
 
 # enter the project directory
 cd vue-admin-super
@@ -46,8 +44,3 @@ npm run lint
 # code format check and auto fix
 npm run lint --fix
 ```
-
-## License
-[MIT](https://github.com/destiny-miracle/vue-admin-super/blob/master/LICENSE)
-
-Copyright (c) 2020-present DestinyMiracle
